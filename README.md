@@ -1,15 +1,17 @@
 ## Hello there 👋
 
-Welcome to my profile!
+I'm an undergrad from Germany. Always interested to learn and build new things and make them well.
 
-I'm an undergrad from Germany. Always interested to learn and build new things and make them as ✨*fancy*✨ as possible.
+I have a chronic distaste against dynamic languages and enjoy simple and efficient things that give you a lot of freedom.
 
-&nbsp;
+You can also find more my stuff on [Codeberg](https://codeberg.org/Sebito).
 
 ### Languages ⌨
-<img src="https://skillicons.dev/icons?i=rust,py,php,cpp,bash,regex" />
-
-&nbsp;
+<img src="https://skillicons.dev/icons?i=rust,typescript,bash,regex,markdown" />
 
 ### Favorites ❤️
 <img src="https://skillicons.dev/icons?i=linux,neovim,git,discord" />
+
+---
+
+Made with ☕
